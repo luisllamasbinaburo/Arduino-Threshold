@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map Threshold
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Threshold	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+GetState	KEYWORD2
+AddValue	KEYWORD2
+FallThreshold	KEYWORD2
+RiseThreshold	KEYWORD2
+OnChange	KEYWORD2
+OnRising	KEYWORD2
+OnFalling	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
